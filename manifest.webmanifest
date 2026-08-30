@@ -1,0 +1,10 @@
+{
+  "name": "FIRE Dashboard",
+  "short_name": "FIRE",
+  "description": "Interactive FIRE projection dashboard",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#111318",
+  "theme_color": "#111318"
+}
